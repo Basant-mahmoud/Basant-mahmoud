@@ -1,5 +1,5 @@
 
-<img width="250" align="right" src="https://pin.it/3EjJIMu">
+<img width="250" align="right" src="https://i.pinimg.com/564x/5a/87/28/5a872804c8b133c1f81d6e9b3769aa15.jpg">
 
 <h3 align="center">
   Welcome to Bassant mahmoud profile!
@@ -7,7 +7,7 @@
 </h3>
 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Full-stack%20web%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20And%20Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🌱 I'm a Software Engineer 
