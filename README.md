@@ -12,7 +12,7 @@
 
 <p> - 🌱 I'm a Software Engineer </p> 
 <p> - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p> 
-<p> -📫 How to reach me basant.elshehamy31@gmail.com</p> 
+<p> -📫 How to reach me  <a href="basant.elshehamy31@gmail.com">basant.elshehamy31@gmail.com</a></p> 
 
 
  Connect with Me :
