@@ -10,9 +10,9 @@
   <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20And%20Backend%20developer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
-- 🌱 I'm a Software Engineer 
-- 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
--📫 How to reach me basant.elshehamy31@gmail.com
+<p> - 🌱 I'm a Software Engineer </p> 
+<p> - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p> 
+<p> -📫 How to reach me basant.elshehamy31@gmail.com</p> 
 
 
  Connect with Me :
