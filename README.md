@@ -11,7 +11,7 @@
 </p> 
 
 <p> - 🌱 I'm a Software Engineer </p> 
-<p> - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.</p> 
+<p> - 👨‍💻 As a recent graduate in Computer Science, I am constantly learning and exploring new technologies to further enhance my skills. I'm passionate about staying up-to-date with the latest advancements and applying them to real-world projects.</p> 
 <p> -📫 How to reach me  <a href="basant.elshehamy31@gmail.com">basant.elshehamy31@gmail.com</a></p> 
 
 
